@@ -27,11 +27,11 @@ const siteProps = {
   name: "Abhay Nandiraju",
   title: "AI/ML Engineer",
   email: "abhay2001sri@gmail.com",
-  gitHub: "https://github.com/srikrish2812",
+  gitHub: "srikrish2812",
   instagram: "microsoft",
-  linkedIn: "satyanadella",
+  linkedIn: "abhaynandiraju",
   medium: "",
-  twitter: "microsoft",
+  twitter: "capabhay",
   youTube: "Code",
 };
 
